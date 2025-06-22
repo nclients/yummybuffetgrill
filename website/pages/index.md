@@ -116,6 +116,24 @@ sections:
 
 # Gallery  
   - type: "gallery"
+    id: ""
+    mode: 1 # 1 - 3
+    bgImg: ""
+    bgColor: ""
+    bgOpacity: "" # 0~1
+    title: 
+      - "Our Prices Are as Friendly as Our Staff!"
+    titleColor: "#000000"
+    description: 
+      - ""
+    descriptionColor: "#333333"
+    folderPath: "gallery2"
+    showImgName: false # true | false
+    imgNameColor: "#000000"
+    menuItemImgRounded: "3xl" # sm | md | lg | xl | 2xl | 3xl | full
+
+# Gallery  
+  - type: "gallery"
     id: "gallery"
     mode: 4 # 1 - 3
     bgImg: ""
@@ -220,7 +238,9 @@ sections:
       - "About Us"
     titleColor: "#000000"
     description: 
-      - "Yummy Buffet & Grill in Citrus Heights offers a wide variety of fresh and flavorful dishes—from Mongolian BBQ and grilled steak to sushi, seafood, Chinese favorites, and even fried bananas you won’t forget. Our restaurant is clean, the staff is friendly, and we serve the full dinner menu all day on weekends. Come hungry, leave happy. We can’t wait to welcome you back!"
+      - "Yummy Buffet & Grill – Over 130 items of fresh, delicious, and affordable all-you-can-eat favorites in the cleanest buffet in town!"
+      - "Chinese cuisine prepared by a master chef with over 30 years of experience, sushi crafted by a sushi chef with more than 20 years of expertise, sizzling and tempting teppanyaki, the most delicious sushi, premium BBQ… A full range of desserts, fruits, vegetables, puddings, jellies—you name it!"
+      - "Perfect for friends’ gatherings, birthday parties, company dinners, and wedding celebrations!"
     descriptionColor: "#000000"
 
 # Gallery  
