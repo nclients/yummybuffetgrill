@@ -238,9 +238,10 @@ sections:
       - "About Us"
     titleColor: "#000000"
     description: 
-      - "Yummy Buffet & Grill – Over 130 items of fresh, delicious, and affordable all-you-can-eat favorites in the cleanest buffet in town!"
-      - "Chinese cuisine prepared by a master chef with over 30 years of experience, sushi crafted by a sushi chef with more than 20 years of expertise, sizzling and tempting teppanyaki, the most delicious sushi, premium BBQ… A full range of desserts, fruits, vegetables, puddings, jellies—you name it!"
-      - "Perfect for friends’ gatherings, birthday parties, company dinners, and wedding celebrations!"
+      - "Yummy Buffet & Grill – Over 130 Items! The tastiest, most affordable, freshest, and cleanest new buffet in town!"
+      - "Enjoy authentic Chinese cuisine prepared by a master chef with over 20 years of experience, and fresh sushi crafted by a skilled sushi chef with more than 10 years of expertise. Indulge in sizzling teppanyaki, premium BBQ, and the most flavorful sushi selections."
+      - "A full range of desserts, fruits, vegetables, puddings, jellies—you name it!"
+      - "Perfect for friends’ gatherings, birthday parties, company dinners, and even wedding celebrations!"
     descriptionColor: "#000000"
 
 # Gallery  
