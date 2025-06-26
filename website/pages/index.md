@@ -13,7 +13,7 @@ cuid: ""
 ruid: ""
 orderOnlineLink: "https://www.bestfoodtodayus.com/ordering/restaurant/menu?restaurant_uid=0d021b62-80c9-4fe7-8ef6-bef0ba3a94fe"
 tableReservationLink: ""
-tel: "279-529-2555"
+tel: "(279) 242-2655"
 
 # banner:
 #   text: 
@@ -284,7 +284,7 @@ sections:
     url: "https://maps.app.goo.gl/s4TVXBLNskL79Poe7"
     iframeUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3114.7078446300957!2d-121.29896758787422!3d38.67858187165393!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x809adf0061abb1e3%3A0x850198f8bf0d0ab2!2sYummy%20Buffet%20Grill%20and%20Sushi!5e0!3m2!1sen!2sus!4v1750555719968!5m2!1sen!2sus"
     addTelBtn: true
-    tel: "279-529-2555"
+    tel: "(279) 242-2655"
     telInsteadText: ""
     tel2: "" # if there are two phone numbers
     tel2InsteadText: ""

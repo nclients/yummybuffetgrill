@@ -13,7 +13,7 @@ cuid: ""
 ruid: ""
 orderOnlineLink: "https://www.bestfoodtodayus.com/ordering/restaurant/menu?restaurant_uid=0d021b62-80c9-4fe7-8ef6-bef0ba3a94fe"
 tableReservationLink: ""
-tel: "279-529-2555"
+tel: "(279) 242-2655"
 address: 7217 Greenback Ln. Citrus Heights, CA 95621
 creationDate: 1 Jan 2025
 
