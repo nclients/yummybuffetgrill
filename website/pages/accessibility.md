@@ -11,7 +11,7 @@ primaryColorScheme: "dark" # dark | light
 secondaryColorScheme: "light"
 cuid: ""
 ruid: ""
-orderOnlineLink: "https://www.bestfoodtodayus.com/ordering/restaurant/menu?restaurant_uid=0d021b62-80c9-4fe7-8ef6-bef0ba3a94fe"
+orderOnlineLink: "https://www.bestfoodtodayus.com/ordering/?restaurant_uid=0d021b62-80c9-4fe7-8ef6-bef0ba3a94fe"
 tableReservationLink: ""
 tel: "(279) 242-2655"
 address: 7217 Greenback Ln. Citrus Heights, CA 95621
@@ -53,7 +53,7 @@ header:
   telTextColor: "#000000"
 
   otherBtn1InsteadText: "Online Order"
-  otherBtn1Href: "https://www.bestfoodtodayus.com/ordering/restaurant/menu?restaurant_uid=0d021b62-80c9-4fe7-8ef6-bef0ba3a94fe"
+  otherBtn1Href: "https://www.bestfoodtodayus.com/ordering/?restaurant_uid=0d021b62-80c9-4fe7-8ef6-bef0ba3a94fe"
   otherBtn2InsteadText: ""
   otherBtn2Href: ""
 
