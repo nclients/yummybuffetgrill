@@ -4,9 +4,9 @@ tag: "GTM-KNSBW8PX" #GTM-xxx
 googleSiteVerification: "" 
 title: "Yummy Buffet & Grill - Best Food Today"
 favicon: "favicon.ico"
-logo: "logo.svg"
-primaryColor: "#E7383D" # logo color
-secondaryColor: "#ffffff"
+logo: "logo.png"
+primaryColor: "#9B1D25" # logo color
+secondaryColor: "#F6CF5C"
 primaryColorScheme: "dark" # dark | light
 secondaryColorScheme: "light"
 cuid: ""
@@ -25,8 +25,8 @@ tel: "(279) 242-2655"
 
 # header
 header:
-  logoSize: 55
-  logoSizeOnMobile: 50
+  logoSize: 75
+  logoSizeOnMobile: 65
   textAfterLogo: 
     text: ""
     size: 16
@@ -34,9 +34,9 @@ header:
   showTextAfterLogoOnMobile: false
   logoOnMobile: "" # e.g., 'logo.png'. Set a logo for mobile that is different from the desktop.
   
-  bgColor: "#ffffff"
+  bgColor: "#252523"
   bgOpacity: "1" # 0~1
-  menuTextColor: "#000000"
+  menuTextColor: "#ffffff"
   menu:
     - { text: "Home", link: "/" }
     - { text: "Gallery", link: "#gallery" }
@@ -48,7 +48,7 @@ header:
   addTableReservationBtn: false
   tableReservationBtnInsteadText: ""
   addTelBtn: true
-  telTextColor: "#000000"
+  telTextColor: "#ffffff"
 
   otherBtn1InsteadText: "Online Order"
   otherBtn1Href: "https://www.bestfoodtodayus.com/ordering/?restaurant_uid=0d021b62-80c9-4fe7-8ef6-bef0ba3a94fe"
@@ -114,23 +114,6 @@ sections:
 #       - "1gov6sj92av4Zb9OI9K1kKJat1rv1c"
 #     isOnlyDisplayOnMobile: false
 
-# Gallery  
-  - type: "gallery"
-    id: ""
-    mode: 1 # 1 - 3
-    bgImg: ""
-    bgColor: ""
-    bgOpacity: "" # 0~1
-    title: 
-      - "Our Prices Are as Friendly as Our Staff!"
-    titleColor: "#000000"
-    description: 
-      - ""
-    descriptionColor: "#333333"
-    folderPath: "gallery2"
-    showImgName: false # true | false
-    imgNameColor: "#000000"
-    menuItemImgRounded: "3xl" # sm | md | lg | xl | 2xl | 3xl | full
 
 # Gallery  
   - type: "gallery"
@@ -261,6 +244,25 @@ sections:
     showImgName: false # true | false
     imgNameColor: "#000000"
     menuItemImgRounded: "3xl" # sm | md | lg | xl | 2xl | 3xl | full
+
+# Gallery  
+  - type: "gallery"
+    id: ""
+    mode: 1 # 1 - 3
+    bgImg: ""
+    bgColor: ""
+    bgOpacity: "" # 0~1
+    title: 
+      - "Our Prices Are as Friendly as Our Staff!"
+    titleColor: "#000000"
+    description: 
+      - ""
+    descriptionColor: "#333333"
+    folderPath: "gallery2"
+    showImgName: false # true | false
+    imgNameColor: "#000000"
+    menuItemImgRounded: "3xl" # sm | md | lg | xl | 2xl | 3xl | full
+
 
 # textBlock - Information
   - type: "textBlock" 
