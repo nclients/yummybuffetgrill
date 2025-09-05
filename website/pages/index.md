@@ -101,18 +101,18 @@ sections:
     bottomRounded: "3xl" # sm | md | lg | xl | 2xl | 3xl | full
     bottomInfo: "We offer Takeout"
 
-# # Video
-#   - type: "video"
-#     id: ""
-#     title: 
-#       - "Lorem ipsum dolor sit amet"
-#     description: 
-#       - "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et" 
-#     videoType: "gjw" # vimeo | gjw | youtube
-#     videoId: 
-#       - "1gov6sj92av4Zb9OI9K1kKJat1rv1c"
-#       - "1gov6sj92av4Zb9OI9K1kKJat1rv1c"
-#     isOnlyDisplayOnMobile: false
+# Video
+  - type: "video"
+    id: ""
+    title: 
+      - "No.1 AYCE Yummy Buffet Grill & Sushi"
+    description: 
+       
+    videoType: "gjw" # vimeo | gjw | youtube
+    videoId: 
+      - "1hqml14rfeb5G2GTT7fDU7XVJ1p61c"
+   
+    isOnlyDisplayOnMobile: false
 
 
 # Gallery  
