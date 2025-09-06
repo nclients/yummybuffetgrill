@@ -2,7 +2,7 @@
 layout: "ssg-theme-astro/layouts/main.astro"  # This line of code should remain unchanged.
 tag: "GTM-KNSBW8PX" #GTM-xxx
 googleSiteVerification: "" 
-title: "Yummy Buffet & Grill - Best Food Today"
+title: "Yummy Buffet Grill & Sushi - Best Food Today"
 favicon: "favicon.ico"
 logo: "logo.png"
 primaryColor: "#9B1D25" # logo color
@@ -92,7 +92,7 @@ sections:
     btn2Text: "" 
     btn2Href: "" 
 
-    bannerImg: "sample.webp"
+    bannerImg: ""
     imgPosition: "imgLeft" # imgLeft | imgRight
     bannerMarginTopMobile: 20
     imgRounded: "3xl" # sm | md | lg | xl | 2xl | 3xl | full
@@ -123,7 +123,7 @@ sections:
     bgColor: ""
     bgOpacity: "" # 0~1
     title: 
-      - "Food at Yummy Buffet & Grill"
+      - "Food at Yummy Buffet Grill & Sushi"
     titleColor: "#000000"
     description: 
       - ""
@@ -221,7 +221,7 @@ sections:
       - "About Us"
     titleColor: "#000000"
     description: 
-      - "Yummy Buffet & Grill – Over 130 Items! The tastiest, most affordable, freshest, and cleanest new buffet in town!"
+      - "Yummy Buffet Grill & Sushi – Over 130 Items! The tastiest, most affordable, freshest, and cleanest new buffet in town!"
       - "Enjoy authentic Chinese cuisine prepared by a master chef with over 20 years of experience, and fresh sushi crafted by a skilled sushi chef with more than 10 years of expertise. Indulge in sizzling teppanyaki, premium BBQ, and the most flavorful sushi selections."
       - "A full range of desserts, fruits, vegetables, puddings, jellies—you name it!"
       - "Perfect for friends’ gatherings, birthday parties, company dinners, and even wedding celebrations!"
@@ -235,7 +235,7 @@ sections:
     bgColor: ""
     bgOpacity: "" # 0~1
     title: 
-      - "Welcome to Yummy Buffet & Grill"
+      - "Welcome to Yummy Buffet Grill & Sushi"
     titleColor: "#000000"
     description: 
       - ""
@@ -361,7 +361,7 @@ footer:
   paymentMethod: "applePay,visa,amex,alipay,mastercard" # alipay,applePay,cash,discover,googlePay,jcb,maestro,mastercard,stripe,unionPay,visa,weChatPay,payPal
 
 seo:
-  metaTitle: "Yummy Buffet & Grill | All-You-Can-Eat Buffet in Citrus Heights" 
+  metaTitle: "Yummy Buffet Grill & Sushi | All-You-Can-Eat Buffet in Citrus Heights" 
 
   metaDescription: "Enjoy fresh sushi, seafood, Mongolian BBQ, and more at Yummy Buffet in Citrus Heights. Clean, friendly, and affordable—dinner menu served all day on weekends!"
 
