@@ -4,7 +4,7 @@ tag: "GTM-KNSBW8PX" #GTM-xxx
 googleSiteVerification: "" 
 title: "Yummy Buffet & Grill - Best Food Today"
 favicon: "favicon.ico"
-logo: "logo.png"
+logo: "logo.webp"
 primaryColor: "#E7383D" # logo color
 secondaryColor: "#ffffff"
 primaryColorScheme: "dark" # dark | light
@@ -34,7 +34,7 @@ header:
     size: 16
     color: ""
   showTextAfterLogoOnMobile: false
-  logoOnMobile: "" # e.g., 'logo.png'. Set a logo for mobile that is different from the desktop.
+  logoOnMobile: "" # e.g., 'logo.webp'. Set a logo for mobile that is different from the desktop.
   
   bgColor: "#ffffff"
   bgOpacity: "1" # 0~1
