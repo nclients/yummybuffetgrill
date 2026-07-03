@@ -2,7 +2,7 @@
 layout: "ssg-theme-astro/layouts/main.astro"  # This line of code should remain unchanged.
 tag: "GTM-KNSBW8PX"
 googleSiteVerification: "" 
-title: "Yummy Buffet & Grill - Best Food Today"
+title: "Yummy Buffet & Grill"
 favicon: "favicon.ico"
 logo: "logo.webp"
 primaryColor: "#E7383D" # logo color
@@ -112,4 +112,4 @@ footer:
   paymentMethod: "applePay,visa,amex,alipay,mastercard" # alipay,applePay,cash,discover,googlePay,jcb,maestro,mastercard,stripe,unionPay,visa,weChatPay,payPal
 
 ---
-<!-- Powered by Best Food Today -->
+<!-- Powered by -->
