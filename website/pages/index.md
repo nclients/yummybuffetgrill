@@ -229,7 +229,7 @@ sections:
 
 # Gallery  
   - type: "gallery"
-    id: "gallery"
+    id: "gallery-2"
     mode: 4 # 1 - 3
     bgImg: ""
     bgColor: ""
