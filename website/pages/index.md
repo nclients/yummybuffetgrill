@@ -129,6 +129,15 @@ sections:
       - ""
     descriptionColor: "#333333"
     folderPath: "gallery"
+    altOverrides:
+      "002_Buffet Trays with Crawfish and Crab Legs": "Buffet Trays with Crawfish and Crab"
+      "004_Hot Buffet Line with Fried Dishes": "Hot Buffet Line with Fried Items and Stir-Fries"
+      "005_Buffet Line with Baked Oysters and Hot Dishes": "Hot Buffet Line with Baked Oysters"
+      "006_Cold Buffet Salads and Vegetable Dishes": "Cold Buffet Salads and Vegetables"
+      "011_Raw Meats and Vegetables at the Grill Station": "BBQ Grill Station with Short Ribs and Vegetables"
+      "012_Marinated Beef Short Rib Slices on Tray": "Sliced Beef Short Ribs for BBQ Grill"
+      "013_Spicy Crawfish on a White Platter": "Spicy Crawfish"
+      "016_Hot Buffet Trays with Fried Snacks": "Hot Buffet Trays with Fried Balls and Fries"
     showImgName: false # true | false
     imgNameColor: "#000000"
     menuItemImgRounded: "3xl" # sm | md | lg | xl | 2xl | 3xl | full
@@ -241,6 +250,9 @@ sections:
       - ""
     descriptionColor: "#333333"
     folderPath: "gallery1"
+    altOverrides:
+      "001_Dining Room with Wooden Chairs and Long Tables": "Yummy Buffet Grill Dining Room"
+      "004_Buffet Counters with Mosaic Tile Base": "Buffet Counters"
     showImgName: false # true | false
     imgNameColor: "#000000"
     menuItemImgRounded: "3xl" # sm | md | lg | xl | 2xl | 3xl | full
