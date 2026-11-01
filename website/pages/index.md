@@ -130,6 +130,7 @@ sections:
     descriptionColor: "#333333"
     folderPath: "gallery"
     altOverrides:
+      "001_Baked Shellfish with Cheese Topping": "Baked Green Mussels with Cheese"
       "002_Buffet Trays with Crawfish and Crab Legs": "Buffet Trays with Crawfish and Crab"
       "004_Hot Buffet Line with Fried Dishes": "Hot Buffet Line with Fried Items and Stir-Fries"
       "005_Buffet Line with Baked Oysters and Hot Dishes": "Hot Buffet Line with Baked Oysters"
